@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="WordPress/2.7.1" -->
+<rss version="0.92">
+<channel>
+	<title>Blog &#124; Rubyyot &#187; rubyyot</title>
+	<link>http://blog.rubyyot.com</link>
+	<description>Pragmatism, productivity, programming and getting by in the world</description>
+	<lastBuildDate>Wed, 20 May 2009 06:33:40 +0000</lastBuildDate>
+
+	<docs>http://backend.userland.com/rss092</docs>
+	<language>en</language>
+	
+	<item>
+		<title>Using Rack to generate content from an rss feed</title>
+		<description>The Hype
+Rack is taking the Ruby and Rails worlds by storm.  It's hard to find any recent Ruby related posts that don't mention Rack in some way or other.  It's obvious that Rack is here.  If you haven't read up on it.  Jason Siefer has put ...</description>
+		<link>http://blog.rubyyot.com/2009/05/using-rack-to-generate-content-from-an-rss-feed/</link>
+
+			</item>
+	<item>
+		<title>Rubyyot.com is dead; Long live Rubyyot.com</title>
+		<description>I have pulled the plug on Rubyyot.com, the task management site.  It was an enjoyable learning experience, but I was no longer using it and I don't think anyone else was either.  I've removed it to make way for new development projects.  That is if I can ...</description>
+		<link>http://blog.rubyyot.com/2009/03/rubyyotcom-is-dead-long-live-rubyyotcom/</link>
+			</item>
+</channel>
+</rss>

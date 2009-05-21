@@ -1,4 +1,4 @@
 require 'rack'
-require 'rubyyot_status'
+require 'homepage'
 
-run RubyyotStatus.new
+run Rubyyot::Homepage.new

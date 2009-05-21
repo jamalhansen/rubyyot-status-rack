@@ -1,0 +1,13 @@
+<ul>
+  <% items.each do |item| %>
+    <li>
+      <h4>
+	<a href='<%= item[:link] %>'>
+	  <%= item[:title] %>
+	<a>
+      </h4>
+      
+      <%= item[:description] %>
+    </li>
+  <% end %>
+</ul>
